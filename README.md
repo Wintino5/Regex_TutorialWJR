@@ -20,4 +20,4 @@ MIT License
 
 The following image shows the application's functionality and appearance:
 
-![This app allows users to make notes.]()
+![This challenge shows a tutorial on regex]()
