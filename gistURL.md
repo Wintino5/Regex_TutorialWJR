@@ -1,6 +1,6 @@
 # A Regex matching a URL
 
-A regualr expression, or regex is a series of special characters that define a search pattern. In this gist, we will be diving into a regex that matches a URL.
+A regular expression, or regex is a series of special characters that define a search pattern. In this gist, we will be diving into a regex that matches a URL.
 
 ## Summary
 /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
@@ -14,8 +14,6 @@ The regex example used in this tutorial is one that is used to match a URL. The 
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
 - [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
 - [Character Escapes](#character-escapes)
 
 ## Regex Components

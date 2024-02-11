@@ -6,7 +6,7 @@ In this challenge we learned about regular expressions also known as regex. A re
 
 ## Repository
 
-Link to gist: 
+Link to gist: https://gist.github.com/Wintino5/25c8a76b1dc414bce3ee8ee3368285c9
 
 ## Technologies
 
@@ -20,4 +20,4 @@ MIT License
 
 The following image shows the application's functionality and appearance:
 
-![This challenge shows a tutorial on regex]()
+![This challenge shows a tutorial on regex](./assets/images/Gist.png)
